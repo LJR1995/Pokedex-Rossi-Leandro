@@ -2,7 +2,8 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilo.css">
-	<title>Example</title>
+	<title>Bienvenido a la pokedex</title>
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG">
 </head>
 <body>
 
@@ -11,7 +12,7 @@
 		<div class="text1">POKEDEX</div>
 		<div class="buscador"> 	
 			<form method="POST" action="index.php" >
-				<input class="busca" type="text" name="whoisthat" autofocus>
+				<input class="busca" type="text" name="whoisthat" autofocus placeholder="Busque aqui...">
 			</form>
 		</div>
 	</div>

@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Login</title>
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilo.css">
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG">
 </head>
 <body>
 
@@ -21,6 +22,7 @@
 		</div><br>
 
 		<input class="bot" type="submit" name="enviar" value="Enviar">
+        <a class="btnvolver" href="index.php" name="volver">Volver</a>
 	</form>
 </div>
 <?php

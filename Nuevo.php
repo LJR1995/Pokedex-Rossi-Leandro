@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
    <link rel="stylesheet" type="text/css" href="recursos/css/estilo.css">
-    <title>Nuevo</title>
+    <title>Bienvenido</title>
 </head>
 <body>
 <main>
@@ -106,11 +106,11 @@
                 $sql3="Insert Into Poke_Tipo(Id_Tipo, Id_Pokemon) Values('$id','$tipo')";
                 $result=mysqli_query($conn,$sql3);
 
-                echo "<p class='labelform editado'>Guardado Correctamente</p>";
+                echo "<p class='incorrecto'>Guardado Correctamente</p>";
                 
             }
             else{
-                echo "<p class='labelform editado'>Codigo Existente</p>";
+                echo "<p class='incorrecto'>Codigo Existente</p>";
             }
         }
         if(isset($_POST["cerrar"])){

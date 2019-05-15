@@ -6,7 +6,8 @@ session_start();
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilo.css">
-	<title>Example</title>
+	<title>Pokedex</title>
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG">
 </head>
 <body>
 
