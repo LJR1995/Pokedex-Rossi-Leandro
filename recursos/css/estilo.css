@@ -174,7 +174,7 @@ body{
 	border:solid 1px #CB4335;
 	border-radius: 12px;
 	background: #CB4335;
-	background-image: url("https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png");
+
 	background-size: 100% 100%;
 
 }
@@ -298,6 +298,7 @@ border-radius: 12px;
 	text-align: center;
 	border:solid 1px #CB4335;
 	border-radius: 12px;
+    background: #CB4335;
 }
 
 .selectform2{
@@ -318,6 +319,7 @@ border-radius: 12px;
 	text-align: center;
 	border:solid 1px #CB4335;
 	border-radius: 12px;
+    background: #CB4335;
 }
 .box11{
 	width: 100%;
